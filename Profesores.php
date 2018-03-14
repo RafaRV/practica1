@@ -3,7 +3,6 @@
 	require_once ('codes/nav.php');
 ?>
 
-
 	<table class="table table-striped">
 		<thead class="thead-dark">
 			<tr>
@@ -25,6 +24,7 @@
 		?>
 		
 	</table>
+
 <?PHP
 	require_once 'codes/header.php';
 ?>
